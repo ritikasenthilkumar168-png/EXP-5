@@ -5,7 +5,7 @@ EXP. NO. 5: 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
  To find the Zener Break down voltage regulation condition.
 
 # APPARATUS:
-# S.No	Name of the Apparatus	 Range	  Quantity
+S.No	Name of the Apparatus	 Range	  Quantity
 1	    Zener Diode (IN 4735A)		        1
 2	    Resistors	1KΩ, 10KΩ	            1
 3	    Regulated Power Supply	(0-30)V DC	1
